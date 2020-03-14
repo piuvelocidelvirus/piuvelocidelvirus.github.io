@@ -325,7 +325,7 @@ button {
 }
 
 .logo a {
-     font-size: 40px;
+     font-size: 30px;
      font-weight: bold;
      text-transform: uppercase;
      color: #fff;
@@ -522,6 +522,15 @@ button {
 
 .projects .projects_box .read_more:hover {
      background: #0891f8;
+}
+
+.projects .text-large small {
+     font-size: 25px;
+}
+
+.projects .text-large {
+     font-size: 30px;
+     
 }
 
 
