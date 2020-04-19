@@ -23,9 +23,24 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/css/style.css",
+              "src/css/bootstrap.min.css",
+              "src/css/responsive.css",
+              "src/css/jquery.mCustomScrollbar.min.css",
+              "https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css",
+              "https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/js/jquery.min.js",
+              "src/js/popper.min.js",
+              "src/js/bootstrap.bundle.min.js",
+              "src/js/jquery-3.0.0.min.js",
+              "src/js/plugin.js",
+              "src/js/jquery.mCustomScrollbar.concat.min.js",
+              "src/js/custom.js",
+              "https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"
+            ]
           },
           "configurations": {
             "production": {
